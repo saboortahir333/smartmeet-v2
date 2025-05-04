@@ -140,6 +140,3 @@ MIT License
 ---
 
 ## 👥 Contributors
-
-- \[Your Name]
-- \[Friend's GitHub Username]
