@@ -1,0 +1,28 @@
+{
+  "cSpell.words": [
+    "anyio",
+    "certifi",
+    "colorama",
+    "exceptiongroup",
+    "fastapi",
+    "filelock",
+    "fsspec",
+    "idna",
+    "itertools",
+    "llvmlite",
+    "mpmath",
+    "networkx",
+    "numba",
+    "numpy",
+    "pydantic",
+    "sniffio",
+    "starlette",
+    "sympy",
+    "tiktoken",
+    "tqdm",
+    "urllib",
+    "uvicorn",
+    "venv",
+    "zipp"
+  ]
+}
